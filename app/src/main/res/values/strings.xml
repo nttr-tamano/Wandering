@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Wandering</string>
+    <string name="text_about">長方形の部屋のどこかにゴールがあります。\nゴールを目指して、歩き回ってください。</string>
+    <string name="btn_Start">スタート</string>
+    <string name="text_Score">スコア：　0</string>
+    <string name="text_StageInfo">ステージ：●　サイズ：横●×縦●</string>
+    <string name="text_Info">＞＞ テキストテキストテキストテキストテキストテキストテキストテキスト</string>
+    <string name="text_MoveLeft">残り移動可能数：　0</string>
+    <string name="btn_UP">↑</string>
+    <string name="btn_Down">↓</string>
+    <string name="btn_Left">←</string>
+    <string name="btn_Right">→</string>
+    <string name="text_Title">Wandering</string>
+    <string name="custom_Font_Name">Makinas-Scrap-5.otf</string>
+    <string name="format_score">ハイスコア: %d　　スコア: %d</string>
+    <string name="format_high_score">ハイスコア: %d</string>
+</resources>
